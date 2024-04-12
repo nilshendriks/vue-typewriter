@@ -127,7 +127,6 @@
   };
 </script>
 <style scoped>
-  /* @import "_impact-label.css"; */
   @font-face {
     font-family: "impact_labelregular";
     src: url("./assets/fonts/Impact_Label-webfont.woff") format("woff");
