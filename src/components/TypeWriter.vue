@@ -129,7 +129,7 @@
 <style scoped>
   @font-face {
     font-family: "impact_labelregular";
-    src: url("./assets/fonts/Impact_Label-webfont.woff") format("woff");
+    src: url("/assets/fonts/Impact_Label-webfont.woff") format("woff");
     font-weight: normal;
     font-style: normal;
     font-display: swap;
